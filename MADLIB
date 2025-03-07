@@ -1,0 +1,6 @@
+Print("Welcome to the MAD-LIB")
+Print("PLease answer the following questions")
+Print("")
+
+adjective 1 = input("Enter an adjective")
+nationality 1 = input("Enter a noun")
