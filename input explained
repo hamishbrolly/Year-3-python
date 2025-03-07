@@ -1,0 +1,30 @@
+#input explained
+#Python has many "Built in" functions
+#Here is a list
+#https://docs.python.org/3/library/functions.html
+
+#here is a variable
+name = "bob"
+
+#HOwever, not everyone is called bob
+#here is how to allow a user to input...
+#...their name
+name = str(input("Enter your name"))
+print("nice to meet you", name)
+age = int(input("How old are you?"))
+print("Wow I cant believe your",age)
+colour = str(input("Enter your favouritre colour"))
+print("Your favourite colour is",colour)
+location = str(input("Where do you live?"))
+print("I haven't heard of",location)
+Price = float(input("How much was your dog?"))
+print("Wow",Price("is a lot to pay for a dog"))
+
+
+
+
+
+
+
+
+
