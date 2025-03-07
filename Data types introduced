@@ -1,0 +1,9 @@
+#Data types
+#C.R.I.B.S
+# Here are variables that hold...
+#...each type of data type
+character = "H"
+realFloat = 1.2
+integer = 668
+Boolean = True
+string = "Yes i am"
