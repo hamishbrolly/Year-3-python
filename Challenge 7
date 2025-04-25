@@ -1,0 +1,15 @@
+#Selection challenge 07 (GCSECS.com)
+#Improve the code from the challenge above
+#Ask user to enter y or n if they have a ticket
+#Ask user to enter their age (as an integer)
+#Assume the movie is rated 15
+#If they are old enough and have a ticket...
+#...display "Please find your seat"
+#Otherwise display "You are not allowed this time"
+ticket = str(input("Do you have a ticket y/n?"))
+age = int(input("How old are you?"))
+print("")
+if age >= 15 and ticket == "y":
+  print("Enjoy the movie")
+else:
+  print("Sorry you cant watch it")
