@@ -1,0 +1,9 @@
+#For loop challenge7 (GCSECS.COM)
+
+#Create some code that..
+#asks a user for an int below 100
+#displays a backwards count to zero
+bw = int(input("Write a number below 100!"))
+number = bw
+for i in range (bw, -1, -1):
+ print(i)
